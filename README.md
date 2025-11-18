@@ -13,4 +13,4 @@ https://github.com/hafrey1/LunaTV-config
 **https://linux.do/t/topic/1133648/86**
 
 ## 基于source-collector仓库中的sites_export_2025-09-29.json去重之后的config.json作为参照 进行去重
-## 媒体和老司机 来源于**https://linux.do/t/topic/1133648/86** 
+### 媒体.json和老司机.json 来源于**https://linux.do/t/topic/1133648/86** 
