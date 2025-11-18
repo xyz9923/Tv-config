@@ -1,5 +1,4 @@
-{
-  "sites": [
+[
   {
     "id": "e2f0d9c4-c8b1-4c11-9a7f-94a0f4b3e8d2",
     "key": "🔞老鸭资源",
@@ -195,13 +194,4 @@
     "tags": ["AV"],
     "priority": 0
   }
-],
-  "exportTime": "2025-09-29T09:33:20.880Z",
-  "total": 105,
-  "filters": {
-    "search": null,
-    "tags": null,
-    "status": null
-  }
-}
-
+]
