@@ -6,7 +6,7 @@ https://github.com/hafrey1/LunaTV-config
 
 ## 本仓库配置来源 ：
 
-**https://github.com/hafrey1/LunaTV-config]**
+**https://github.com/hafrey1/LunaTV-config**
 
 **(https://linux.do/t/topic/997817)**
 
