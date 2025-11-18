@@ -1,0 +1,155 @@
+{
+  "sites": [
+  {
+    "id": "e2f0d9c4-c8b1-4c11-9a7f-94a0f4b3e8d2",
+    "key": "🔞老鸭资源",
+    "name": "🔞老鸭资源",
+    "api": "https://api.apilyzy.com/api.php/provide/vod/",
+    "type": 2,
+    "isActive": 1,
+    "time": "2025-09-29T10:30:15.123456789+08:00",
+    "isDefault": 0,
+    "remark": "🔞老鸭资源",
+    "tags": ["AV"],
+    "priority": 0
+  },
+  {
+    "id": "a9b8c7d6-e5f4-4321-8b01-7c6d5e4f3a2b",
+    "key": "🔞淫水机资源",
+    "name": "🔞淫水机资源",
+    "api": "https://www.xrbsp.com/api/json.php",
+    "type": 2,
+    "isActive": 1,
+    "time": "2025-09-29T10:30:16.234567890+08:00",
+    "isDefault": 0,
+    "remark": "🔞淫水机资源",
+    "tags": ["AV"],
+    "priority": 0
+  },
+  {
+    "id": "f8e7d6c5-b4a3-4210-9c8d-7b6a5f4e3d2c",
+    "key": "🔞番号资源",
+    "name": "🔞番号资源",
+    "api": "http://fhapi9.com/api.php/provide/vod/",
+    "type": 2,
+    "isActive": 1,
+    "time": "2025-09-29T10:30:17.345678901+08:00",
+    "isDefault": 0,
+    "remark": "🔞番号资源",
+    "tags": ["AV"],
+    "priority": 0
+  },
+  {
+    "id": "c7b6a5d4-e3f2-4109-8d7c-6b5a4f3e2d1c",
+    "key": "🔞155资源",
+    "name": "🔞155资源",
+    "api": "https://155api.com/api.php/provide/vod/",
+    "type": 2,
+    "isActive": 1,
+    "time": "2025-09-29T10:30:18.456789012+08:00",
+    "isDefault": 0,
+    "remark": "🔞155资源",
+    "tags": ["AV"],
+    "priority": 0
+  },
+  {
+    "id": "b0a9c8d7-e6f5-4432-109c-8d7b6a5f4e3d",
+    "key": "🔞155资源",
+    "name": "🔞155资源",
+    "api": "https://155api.com/api.php/provide/vod/at/json",
+    "type": 2,
+    "isActive": 1,
+    "time": "2025-09-29T10:30:19.567890123+08:00",
+    "isDefault": 0,
+    "remark": "🔞155资源",
+    "tags": ["AV"],
+    "priority": 0
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4789-9a0b-1c2d3e4f5a6b",
+    "key": "🔞鸡坤资源",
+    "name": "🔞鸡坤资源",
+    "api": "https://jkunzyapi.com/api.php/provide/vod/",
+    "type": 2,
+    "isActive": 1,
+    "time": "2025-09-29T10:30:20.678901234+08:00",
+    "isDefault": 0,
+    "remark": "🔞鸡坤资源",
+    "tags": ["AV"],
+    "priority": 0
+  },
+  {
+    "id": "a2b1c0d9-e3f4-4567-8901-234567890abc",
+    "key": "🔞乐播资源",
+    "name": "🔞乐播资源",
+    "api": "https://lbapi9.com/api.php/provide/vod/",
+    "type": 2,
+    "isActive": 1,
+    "time": "2025-09-29T10:30:25.123456789+08:00",
+    "isDefault": 0,
+    "remark": "🔞乐播资源",
+    "tags": ["AV"],
+    "priority": 0
+  },
+  {
+    "id": "b4a3c2d1-e5f6-4789-9a01-2b3c4d5e6f7h",
+    "key": "🔞乐播资源",
+    "name": "🔞乐播资源",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/json",
+    "type": 2,
+    "isActive": 1,
+    "time": "2025-09-29T10:30:26.234567890+08:00",
+    "isDefault": 0,
+    "remark": "🔞乐播资源",
+    "tags": ["AV"],
+    "priority": 0
+  },
+  {
+    "id": "c6d5e4f3-a2b1-4c7d-8e9f-0a1b2c3d4e6g",
+    "key": "🔞滴滴资源",
+    "name": "🔞滴滴资源",
+    "api": "https://api.ddapi.cc/api.php/provide/vod/",
+    "type": 2,
+    "isActive": 1,
+    "time": "2025-09-29T10:30:27.345678901+08:00",
+    "isDefault": 0,
+    "remark": "🔞滴滴资源",
+    "tags": ["AV"],
+    "priority": 0
+  },
+  {
+    "id": "e8f7d6c5-b4a3-4210-9c8e-7b6a5f4e3d2h",
+    "key": "🔞滴滴资源",
+    "name": "🔞滴滴资源",
+    "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
+    "type": 2,
+    "isActive": 1,
+    "time": "2025-09-29T10:30:28.456789012+08:00",
+    "isDefault": 0,
+    "remark": "🔞滴滴资源",
+    "tags": ["AV"],
+    "priority": 0
+  },
+  {
+    "id": "f0e9d8c7-b6a5-4321-0987-6543210fedch",
+    "key": "🔞精品资源",
+    "name": "🔞精品资源",
+    "api": "https://www.jingpinx.com/api.php/provide/vod/",
+    "type": 2,
+    "isActive": 1,
+    "time": "2025-09-29T10:30:29.567890123+08:00",
+    "isDefault": 0,
+    "remark": "🔞精品资源",
+    "tags": ["AV"],
+    "priority": 0
+  }
+],
+  "exportTime": "2025-09-29T09:33:20.880Z",
+  "total": 105,
+  "filters": {
+    "search": null,
+    "tags": null,
+    "status": null
+  }
+}
+
