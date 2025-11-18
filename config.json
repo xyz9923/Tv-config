@@ -1,0 +1,1476 @@
+{
+  "sites": [
+    {
+      "id": "449caeaf-be47-4b6e-b3f8-f93f73a98cb1",
+      "key": "TV-1080\u8D44\u6E90",
+      "name": "TV-1080\u8D44\u6E90",
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T16:28:00.648982653\u002B08:00",
+      "isDefault": 0,
+      "remark": "configplus_isadult",
+      "tags": [
+        "normal"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "e812ac71-5103-4599-8bd4-fb93474cd2ef",
+      "key": "\u4E03\u4E03\u5F71\u89C6",
+      "name": "\u4E03\u4E03\u5F71\u89C6",
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:33:00.293301505\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u4E03\u4E03\u5F71\u89C6",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "a73900f8-fb93-4622-9b3e-e9403dc05e11",
+      "key": "AV-\u7EC6\u80DE\u91C7\u96C6",
+      "name": "AV-\u7EC6\u80DE\u91C7\u96C6",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:32:45.393231955\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u7EC6\u80DE\u91C7\u96C6",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "7fc676b4-6ffd-4b18-b018-05789d253689",
+      "key": "iqiyi\u8D44\u6E90",
+      "name": "iqiyi\u8D44\u6E90",
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:32:16.221920076\u002B08:00",
+      "isDefault": 0,
+      "remark": "iqiyi\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "f9cdeb46-281e-4d17-a28f-2706c7c0969e",
+      "key": "\u4F18\u8D28\u8D44\u6E90\u5E931080zyk6",
+      "name": "\u4F18\u8D28\u8D44\u6E90\u5E931080zyk6",
+      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:32:00.73686023\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u4F18\u8D28\u8D44\u6E90\u5E931080zyk6",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "5992d38f-8ceb-485e-87f5-160e95d1b527",
+      "key": "\u8FA3\u6912\u8D44\u6E90",
+      "name": "\u8FA3\u6912\u8D44\u6E90",
+      "api": "https://apilj.com/api.php/provide",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:31:36.433800313\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u8FA3\u6912\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "d20f2a95-282a-4474-b2d2-9758e63108a6",
+      "key": "\u65B0\u6D6A\u8D44\u6E90\u963F",
+      "name": "\u65B0\u6D6A\u8D44\u6E90\u963F",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:31:07.857896595\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u65B0\u6D6A\u8D44\u6E90\u963F",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "4a7c4ef8-9189-43af-aadd-4ce7dc3453a3",
+      "key": "\u5FEB\u8F66\u8D44\u6E90\u963F",
+      "name": "\u5FEB\u8F66\u8D44\u6E90\u963F",
+      "api": "https://caiji.kuaichezy.org/api.php/provide",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:30:47.722035666\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u5FEB\u8F66\u8D44\u6E90\u963F",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "568b54ab-0954-41f8-9cc5-2e43ea55c680",
+      "key": "\u5C0F\u9E21\u8D44\u6E90",
+      "name": "\u5C0F\u9E21\u8D44\u6E90",
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:30:27.229404393\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u5C0F\u9E21\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "5077f547-ae0c-4c8a-93a4-137f1e8fc986",
+      "key": "\u9EC4\u8272\u8D44\u6E90\u554A\u554A",
+      "name": "\u9EC4\u8272\u8D44\u6E90\u554A\u554A",
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:30:09.282845325\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u9EC4\u8272\u8D44\u6E90\u554A\u554A",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "c9636f24-7615-41ef-937b-a977a59ea5c3",
+      "key": "\u5927\u5730\u8D44\u6E90\u7F51\u7EDC",
+      "name": "\u5927\u5730\u8D44\u6E90\u7F51\u7EDC",
+      "api": "https://dadiapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:29:49.058014027\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u5927\u5730\u8D44\u6E90\u7F51\u7EDC",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "d6a8aa4d-7fe7-4991-9c81-f31af6e4c2cb",
+      "key": "\u91D1\u9A6C\u8D44\u6E90\u7F51",
+      "name": "\u91D1\u9A6C\u8D44\u6E90\u7F51",
+      "api": "https://api.jmzy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:25:44.232198631\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u91D1\u9A6C\u8D44\u6E90\u7F51",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "65cc9c76-06d9-46e5-91f4-8e6b5fcdf319",
+      "key": "\u8702\u5DE2\u7247\u5E93",
+      "name": "\u8702\u5DE2\u7247\u5E93",
+      "api": "https://api.fczy888.me/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:25:28.506776866\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u8702\u5DE2\u7247\u5E93",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "1e2955d8-e19b-4384-a8f1-fce6e2e7e25c",
+      "key": "\u91D1\u9E70\u8D44\u6E90\u91C7\u96C6\u7F51",
+      "name": "\u91D1\u9E70\u8D44\u6E90\u91C7\u96C6\u7F51",
+      "api": "https://jyzyapi.com/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:25:09.637716959\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u91D1\u9E70\u8D44\u6E90\u91C7\u96C6\u7F51",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "dd25e85b-5dfb-4c49-9d78-7c17f40a9cbf",
+      "key": "\u7D22\u5C3C-\u95EA\u7535\u8D44\u6E90",
+      "name": "\u7D22\u5C3C-\u95EA\u7535\u8D44\u6E90",
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:24:47.281693306\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u7D22\u5C3C-\u95EA\u7535\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "775b2b80-465a-4dc4-91a6-cfdb587bd346",
+      "key": "\u7EA2\u725B\u8D44\u6E90",
+      "name": "\u7EA2\u725B\u8D44\u6E90",
+      "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:24:30.630986401\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u7EA2\u725B\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "f4cc7d73-062b-4175-82d4-7aa7f8f13401",
+      "key": "\u6DD8\u7247\u8D44\u6E90",
+      "name": "\u6DD8\u7247\u8D44\u6E90",
+      "api": "https://taopianapi.com/cjapi/sda/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:24:12.941574644\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u6DD8\u7247\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "a004c917-4337-4fee-b60d-d67f59bc63e7",
+      "key": "\u534E\u4E3A\u5427\u8D44\u6E90",
+      "name": "\u534E\u4E3A\u5427\u8D44\u6E90",
+      "api": "https://huawei8.live/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:23:57.613978131\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u534E\u4E3A\u5427\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "6427d596-83a3-4cc3-ac48-0999090341a0",
+      "key": "\u7231\u77ED\u5267.cc",
+      "name": "\u7231\u77ED\u5267.cc",
+      "api": "https://www.aiduanju.cc",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:23:39.643068607\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u7231\u77ED\u5267.cc",
+      "tags": [
+        "\u77ED\u5267"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "4a51254a-48a1-4fbc-b26a-a32699443ddf",
+      "key": "AV-\u6027\u5427\u8D44\u6E90",
+      "name": "AV-\u6027\u5427\u8D44\u6E90",
+      "api": "https://xingba111.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:23:13.605938238\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u6027\u5427\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "0677423b-5ffd-4367-8685-0b5ce8a392f1",
+      "key": "\u5FEB\u64AD\u8D44\u6E90\u7F51\u7AD9",
+      "name": "\u5FEB\u64AD\u8D44\u6E90\u7F51\u7AD9",
+      "api": "https://gayapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:22:44.929141736\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u5FEB\u64AD\u8D44\u6E90\u7F51\u7AD9",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "b4fdfce5-26d9-4b30-bffa-02f7028a99a5",
+      "key": "\u975E\u51E1\u5F71\u89C6new",
+      "name": "\u975E\u51E1\u5F71\u89C6new",
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:21:50.51323901\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u975E\u51E1\u5F71\u89C6new",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "3ca7d5a5-b643-4b21-8a96-38c489df7487",
+      "key": "AV-\u9EC4AV\u8D44\u6E90",
+      "name": "AV-\u9EC4AV\u8D44\u6E90",
+      "api": "https://www.pgxdy.com/api/json.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:21:32.73900442\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u9EC4AV\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "a5e01d1c-def2-4e75-99ce-82e7c02f609f",
+      "key": "AV-\u9CA8\u9C7C\u8D44\u6E90",
+      "name": "AV-\u9CA8\u9C7C\u8D44\u6E90",
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:21:12.47302502\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u9CA8\u9C7C\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "f12fa0a3-e4f8-44e6-b0e8-f162406e1127",
+      "key": "AV-\u9999\u5976\u513F\u8D44\u6E90",
+      "name": "AV-\u9999\u5976\u513F\u8D44\u6E90",
+      "api": "https://www.gdlsp.com/api/json.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:20:54.553880544\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u9999\u5976\u513F\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "25d323ee-1832-4d69-a04f-7412de07c0f4",
+      "key": "AV-\u8FA3\u6912\u8D44\u6E90",
+      "name": "AV-\u8FA3\u6912\u8D44\u6E90",
+      "api": "https://apilj.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:20:37.737345011\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u8FA3\u6912\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "cd4be89b-308a-487c-ac92-679193ed6d59",
+      "key": "AV-\u8272\u732B\u8D44\u6E90",
+      "name": "AV-\u8272\u732B\u8D44\u6E90",
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:20:18.39875772\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u8272\u732B\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "b7ab4570-98c1-4db5-8d96-8265934ec5bc",
+      "key": "AV-\u8272\u55E8\u56FD",
+      "name": "AV-\u8272\u55E8\u56FD",
+      "api": "https://api.sexnguon.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:19:57.03899209\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u8272\u55E8\u56FD",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "8e3611b0-93d3-4f8c-9280-82e396b27300",
+      "key": "AV-\u8001\u8272\u903C\u8D44\u6E90",
+      "name": "AV-\u8001\u8272\u903C\u8D44\u6E90",
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:19:39.097134809\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u8001\u8272\u903C\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "ee832228-adb1-4483-92f6-88c88fafb030",
+      "key": "AV-\u7F8E\u5C11\u5973\u8D44\u6E90",
+      "name": "AV-\u7F8E\u5C11\u5973\u8D44\u6E90",
+      "api": "https://www.msnii.com/api/json.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:19:19.375707723\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u7F8E\u5C11\u5973\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "2bf843f0-03a1-4d72-82e7-0829029dd9a9",
+      "key": "AV-\u7CBE\u54C1\u8D44\u6E90",
+      "name": "AV-\u7CBE\u54C1\u8D44\u6E90",
+      "api": "https://www.jingpinx.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:19:00.937891238\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u7CBE\u54C1\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "2c3d9f25-faea-4b5f-804a-13ac73b7fd33",
+      "key": "AV-\u767D\u5AD6\u8D44\u6E90",
+      "name": "AV-\u767D\u5AD6\u8D44\u6E90",
+      "api": "https://www.kxgav.com/api/json.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:18:45.267161771\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u767D\u5AD6\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "2f73c6ec-788f-4a6d-a3ce-c5a8fc2d5b90",
+      "key": "AV-\u756A\u53F7\u8D44\u6E90",
+      "name": "AV-\u756A\u53F7\u8D44\u6E90",
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:18:21.903879988\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u756A\u53F7\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "61400a10-70db-411c-aa5a-83efd15aa5af",
+      "key": "AV-\u7389\u5154\u8D44\u6E90",
+      "name": "AV-\u7389\u5154\u8D44\u6E90",
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:18:00.614554363\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u7389\u5154\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "3277f8a5-7566-451a-a531-f2509c6b8ecd",
+      "key": "AV-\u6DEB\u6C34\u673A\u8D44\u6E90",
+      "name": "AV-\u6DEB\u6C34\u673A\u8D44\u6E90",
+      "api": "https://www.xrbsp.com/api/json.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:17:40.450632681\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u6DEB\u6C34\u673A\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "1e8e741e-b2b7-4e56-9b2b-3b6b70bb1789",
+      "key": "AV-\u68EE\u6797\u8D44\u6E90",
+      "name": "AV-\u68EE\u6797\u8D44\u6E90",
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:17:19.82297827\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u68EE\u6797\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "71f0ed27-714f-48d0-a952-3c0095e4eacf",
+      "key": "AV-\u5976\u9999\u9999",
+      "name": "AV-\u5976\u9999\u9999",
+      "api": "https://Naixxzy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:16:58.403239861\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u5976\u9999\u9999",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "6b957cbb-3054-4fd4-a3e2-31762924f8ea",
+      "key": "AV-\u5965\u65AF\u5361\u8D44\u6E90",
+      "name": "AV-\u5965\u65AF\u5361\u8D44\u6E90",
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:16:40.816370942\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u5965\u65AF\u5361\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "dc63f64b-8d23-41f5-8f0c-be395298b0a1",
+      "key": "AV-\u4E50\u64AD\u8D44\u6E90",
+      "name": "AV-\u4E50\u64AD\u8D44\u6E90",
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:16:16.558991176\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u4E50\u64AD\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "160c4f5b-5fbd-4cea-b10e-b7f956e53063",
+      "key": "AV-souav\u8D44\u6E90",
+      "name": "AV-souav\u8D44\u6E90",
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:15:57.832116927\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-souav\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "ddf7de15-2d41-4416-8be1-7110f6e29d77",
+      "key": "AV-JKUN\u8D44\u6E90",
+      "name": "AV-JKUN\u8D44\u6E90",
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:15:52.152137436\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-JKUN\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "e32898d7-bef9-4e2f-bdd5-aa5fa9121162",
+      "key": "AV-AIvin",
+      "name": "AV-AIvin",
+      "api": "http://lbapiby.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:14:05.700760588\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-AIvin",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "1d91b7f5-c79a-41e1-849a-7e63a1dd4cc0",
+      "key": "AV-91\u9EBB\u8C46",
+      "name": "AV-91\u9EBB\u8C46",
+      "api": "https://91md.me/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:13:47.96583353\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-91\u9EBB\u8C46",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "0ba2af50-e59f-438d-8788-671bee6e993c",
+      "key": "TV-\u9ED1\u6728\u8033\u70B9\u64AD",
+      "name": "TV-\u9ED1\u6728\u8033\u70B9\u64AD",
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:13:28.410160914\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u9ED1\u6728\u8033\u70B9\u64AD",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "54a7c120-9277-4c69-a89c-d9ce0817b0f9",
+      "key": "TV-\u9ED1\u6728\u8033",
+      "name": "TV-\u9ED1\u6728\u8033",
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:13:03.955474278\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u9ED1\u6728\u8033",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "9bf64d55-8e57-44ed-83dd-c2ed7e9db2cd",
+      "key": "TV-\u9B54\u90FD\u8D44\u6E90",
+      "name": "TV-\u9B54\u90FD\u8D44\u6E90",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:12:45.966224214\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u9B54\u90FD\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "d5391596-a10c-4369-b75e-ad2df425bc0e",
+      "key": "TV-\u9B54\u90FD\u52A8\u6F2B",
+      "name": "TV-\u9B54\u90FD\u52A8\u6F2B",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:12:24.782277615\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u9B54\u90FD\u52A8\u6F2B",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "274b946f-9531-4e98-aafe-17d491276bc7",
+      "key": "TV-\u9B54\u722A\u8D44\u6E90",
+      "name": "TV-\u9B54\u722A\u8D44\u6E90",
+      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:12:07.934756474\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u9B54\u722A\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "255b4ee3-0a0e-4da6-b0e2-f2efc9e19b30",
+      "key": "TV-\u98D8\u96F6\u8D44\u6E90",
+      "name": "TV-\u98D8\u96F6\u8D44\u6E90",
+      "api": "https://p2100.net/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:11:50.010786651\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u98D8\u96F6\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "6350c2f6-d174-42a7-be42-c2461a05c459",
+      "key": "TV-\u975E\u51E1\u8D44\u6E90",
+      "name": "TV-\u975E\u51E1\u8D44\u6E90",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:11:28.741622268\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u975E\u51E1\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "cd881d3f-6251-439f-afdd-448ffa3031d8",
+      "key": "TV-\u95EA\u7535\u8D44\u6E90",
+      "name": "TV-\u95EA\u7535\u8D44\u6E90",
+      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:11:10.989145866\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u95EA\u7535\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "ed113082-e316-44de-84fb-e05b392f0427",
+      "key": "TV-\u91D1\u9E70\u70B9\u64AD",
+      "name": "TV-\u91D1\u9E70\u70B9\u64AD",
+      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:10:48.971920589\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u91D1\u9E70\u70B9\u64AD",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "b201ba97-0c5f-4451-bffa-36bd47507b8c",
+      "key": "TV-\u91CF\u5B50\u8D44\u6E90",
+      "name": "TV-\u91CF\u5B50\u8D44\u6E90",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:10:31.590773579\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u91CF\u5B50\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "a0557f3f-c216-46ca-8424-347bdda11703",
+      "key": "TV-\u901F\u535A\u8D44\u6E90",
+      "name": "TV-\u901F\u535A\u8D44\u6E90",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:10:11.76322703\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u901F\u535A\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "89d1cd8c-cf25-424b-9261-cd15f1b63de8",
+      "key": "TV-\u8C6A\u534E\u8D44\u6E90",
+      "name": "TV-\u8C6A\u534E\u8D44\u6E90",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:09:52.301373916\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u8C6A\u534E\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "4fdafeca-31e8-4ebf-a2b5-97b3463bdc5c",
+      "key": "TV-\u8C46\u74E3\u8D44\u6E90_api",
+      "name": "TV-\u8C46\u74E3\u8D44\u6E90_api",
+      "api": "https://dbzy.tv/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:09:32.724690525\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u8C46\u74E3\u8D44\u6E90api",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "40254606-0768-4b84-a963-552687822702",
+      "key": "TV-\u8C46\u74E3\u8D44\u6E90",
+      "name": "TV-\u8C46\u74E3\u8D44\u6E90",
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:08:58.692585008\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u8C46\u74E3\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "ac71b456-b768-456a-8798-299e30232e03",
+      "key": "TV-\u864E\u7259\u8D44\u6E90",
+      "name": "TV-\u864E\u7259\u8D44\u6E90",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:08:37.923111015\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u864E\u7259\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "496f750c-1d03-4dc3-965c-9c9802d48514",
+      "key": "TV-\u8305\u53F0\u8D44\u6E90",
+      "name": "TV-\u8305\u53F0\u8D44\u6E90",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:08:21.313569235\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u8305\u53F0\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "2b97a5ee-3248-42ac-bbe4-0d449ca76901",
+      "key": "TV-\u7EA2\u725B\u8D44\u6E90",
+      "name": "TV-\u7EA2\u725B\u8D44\u6E90",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:08:03.896652587\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u7EA2\u725B\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "4ca1c97b-0628-4b0c-92db-228b154078ac",
+      "key": "TV-\u7D22\u5C3C\u8D44\u6E90",
+      "name": "TV-\u7D22\u5C3C\u8D44\u6E90",
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:07:43.105184865\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u7D22\u5C3C\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "e1ed829b-acd7-4134-9f89-6bca3eef3ff9",
+      "key": "TV-\u795E\u9A6C\u4E91",
+      "name": "TV-\u795E\u9A6C\u4E91",
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:07:25.000677204\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u795E\u9A6C\u4E91",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "c7b60794-f860-4035-9521-18c96224a9b4",
+      "key": "TV-\u767E\u5EA6\u4E91\u8D44\u6E90",
+      "name": "TV-\u767E\u5EA6\u4E91\u8D44\u6E90",
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:07:06.958545217\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u767E\u5EA6\u4E91\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "50e4ee89-03a2-455a-887d-d7e96df92869",
+      "key": "AV-\u767E\u4E07\u8D44\u6E90",
+      "name": "AV-\u767E\u4E07\u8D44\u6E90",
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:06:48.552457343\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-\u767E\u4E07\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "ff1d79e0-1013-4bef-96b8-61eb181dea93",
+      "key": "TV-\u725B\u725B\u70B9\u64AD",
+      "name": "TV-\u725B\u725B\u70B9\u64AD",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:06:25.997759415\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u725B\u725B\u70B9\u64AD",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "b60523ae-30e8-44b6-be29-d667d3022c81",
+      "key": "TV-\u6B65\u6B65\u9AD8\u8D44\u6E90",
+      "name": "TV-\u6B65\u6B65\u9AD8\u8D44\u6E90",
+      "api": "https://api.yparse.com/api/json",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:06:09.455983897\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u6B65\u6B65\u9AD8\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "05801017-04d7-4339-a2f7-994a7150f463",
+      "key": "TV-\u6A31\u82B1\u8D44\u6E90",
+      "name": "TV-\u6A31\u82B1\u8D44\u6E90",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:05:48.913819008\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u6A31\u82B1\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "90415079-0cc6-45d5-a295-bfc0453bc103",
+      "key": "TV-\u6700\u5927\u8D44\u6E90_api",
+      "name": "TV-\u6700\u5927\u8D44\u6E90_api",
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:05:30.191955905\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u6700\u5927\u8D44\u6E90api",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "1e1e8537-70a1-401a-a115-ee38ba25135f",
+      "key": "TV-\u6700\u5927\u70B9\u64AD",
+      "name": "TV-\u6700\u5927\u70B9\u64AD",
+      "api": "http://zuidazy.me/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:05:04.058808365\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u6700\u5927\u70B9\u64AD",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "0cb9e6e1-6e60-4723-88a4-27bd4cfa8c9f",
+      "key": "TV-\u66B4\u98CE\u8D44\u6E90",
+      "name": "TV-\u66B4\u98CE\u8D44\u6E90",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:04:48.521905502\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u66B4\u98CE\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "834e74ff-26f6-4f25-8917-4ce02d219f0b",
+      "key": "TV-\u65FA\u65FA\u8D44\u6E90_api",
+      "name": "TV-\u65FA\u65FA\u8D44\u6E90_api",
+      "api": "https://api.wwzy.tv/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:04:31.148368511\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u65FA\u65FA\u8D44\u6E90api",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "3297145e-a2b4-44d0-94dc-cd036d4ae27e",
+      "key": "TV-\u65FA\u65FA\u77ED\u5267",
+      "name": "TV-\u65FA\u65FA\u77ED\u5267",
+      "api": "https://wwzy.tv/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:04:07.549131593\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u65FA\u65FA\u77ED\u5267",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "c0cc7932-65e9-4f16-af04-ce7a42de50a0",
+      "key": "TV-\u5C0F\u732B\u54AA\u8D44\u6E90",
+      "name": "TV-\u5C0F\u732B\u54AA\u8D44\u6E90",
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:03:01.783640689\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u5C0F\u732B\u54AA\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "e2addcde-144e-4a4d-a63d-ebef51490448",
+      "key": "TV-\u5982\u610F\u8D44\u6E90",
+      "name": "TV-\u5982\u610F\u8D44\u6E90",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:02:39.0929262\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u5982\u610F\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "3f8b10cb-333c-46b7-a589-547eb5a1a6c3",
+      "key": "TV-\u5929\u6DAF\u8D44\u6E90",
+      "name": "TV-\u5929\u6DAF\u8D44\u6E90",
+      "api": "https://tyyszy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:02:21.279595325\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u5929\u6DAF\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "23be7c0f-7b9a-43d2-a90c-6f1dbaf645c1",
+      "key": "TV-\u5367\u9F99\u8D44\u6E90",
+      "name": "TV-\u5367\u9F99\u8D44\u6E90",
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:01:29.413440567\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u5367\u9F99\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "002e31ff-8507-4d4b-aea0-2864e16a0e12",
+      "key": "TV-\u5367\u9F99\u70B9\u64AD",
+      "name": "TV-\u5367\u9F99\u70B9\u64AD",
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:01:10.184856392\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u5367\u9F99\u70B9\u64AD",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "c6e3eb7e-fd46-4532-ab2f-23ad6d8050e4",
+      "key": "TV-\u5149\u901F\u8D44\u6E90",
+      "name": "TV-\u5149\u901F\u8D44\u6E90",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:00:46.094474156\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u5149\u901F\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "02339bc3-c366-4a7e-8e3b-8bb64442794c",
+      "key": "TV-\u4E2B\u4E2B\u70B9\u64AD",
+      "name": "TV-\u4E2B\u4E2B\u70B9\u64AD",
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:00:28.036828812\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-\u4E2B\u4E2B\u70B9\u64AD",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "cd3a1204-3e8d-402f-91b3-81452a7df84e",
+      "key": "TV-wujinapi\u65E0\u5C3D",
+      "name": "TV-wujinapi\u65E0\u5C3D",
+      "api": "https://api.wujinapi.cc/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T17:00:07.193571405\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-wujinapi\u65E0\u5C3D",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "e9994c2a-d96c-4a61-be47-244a9dc0ca23",
+      "key": "TV-ikun\u8D44\u6E90",
+      "name": "TV-ikun\u8D44\u6E90",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T16:59:48.421414792\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-ikun\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "2697240f-b62e-4393-88d0-84027872363f",
+      "key": "TV-U\u9177\u8D44\u6E9088",
+      "name": "TV-U\u9177\u8D44\u6E9088",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T16:59:24.6571629\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-U\u9177\u8D44\u6E9088",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "f2d6e60a-7909-4726-95d8-d2a83cdfa0e3",
+      "key": "TV-U\u9177\u8D44\u6E90",
+      "name": "TV-U\u9177\u8D44\u6E90",
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T16:59:03.948786135\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-U\u9177\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "2ab8ed95-f180-4b6a-b80d-3f4cc8e814c8",
+      "key": "TV-CK\u8D44\u6E90",
+      "name": "TV-CK\u8D44\u6E90",
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T16:58:44.906222328\u002B08:00",
+      "isDefault": 0,
+      "remark": "TV-CK\u8D44\u6E90",
+      "tags": [
+        "TV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "88c0ff8a-b61b-41ba-97e8-5efabce97706",
+      "key": "AV-155\u8D44\u6E90",
+      "name": "AV-155\u8D44\u6E90",
+      "api": "https://155api.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T16:57:57.021719136\u002B08:00",
+      "isDefault": 0,
+      "remark": "AV-155\u8D44\u6E90",
+      "tags": [
+        "AV"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "fe4abd9b-ebbb-4fb0-bb03-8cb868d9e92e",
+      "key": "\u767E\u5EA6\u8D44\u6E90",
+      "name": "\u767E\u5EA6\u8D44\u6E90",
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T16:00:52.940971114\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u8D44\u6E90\u7AD9",
+      "tags": [
+        "normal"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "e7869250-c3b5-4b2e-974f-a2c19e2976e1",
+      "key": "\u91CF\u5B50\u8D44\u6E90",
+      "name": "\u91CF\u5B50\u8D44\u6E90",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T16:00:34.536431603\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u8D44\u6E90\u7AD9",
+      "tags": [
+        "normal"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "a36b7591-ce19-4f79-9db4-2cd420925300",
+      "key": "iKun\u8D44\u6E90",
+      "name": "iKun\u8D44\u6E90",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T16:00:14.285322003\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u8D44\u6E90\u7AD9",
+      "tags": [
+        "normal"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "72c780d2-dddc-4f5b-8212-9f734933d126",
+      "key": "\u65FA\u65FA\u77ED\u5267",
+      "name": "\u65FA\u65FA\u77ED\u5267",
+      "api": "https://wwzy.tv/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T15:59:54.954394284\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u8D44\u6E90\u7AD9",
+      "tags": [
+        "normal"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "7f52863b-0839-4944-a5d2-b99ec3bd5fb7",
+      "key": "\u65E0\u5C3D\u8D44\u6E90",
+      "name": "\u65E0\u5C3D\u8D44\u6E90",
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T15:59:39.213657894\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u8D44\u6E90\u7AD9",
+      "tags": [
+        "normal"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "27daca08-4981-4a62-846c-82d3cfce6e5f",
+      "key": "\u9B54\u90FD\u8D44\u6E90",
+      "name": "\u9B54\u90FD\u8D44\u6E90",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T15:58:42.516909713\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u8D44\u6E90\u7AD9",
+      "tags": [
+        "normal"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "ad54e40a-92e3-4a59-a08d-2a18d552e1a9",
+      "key": "\u9B54\u722A\u8D44\u6E90",
+      "name": "\u9B54\u722A\u8D44\u6E90",
+      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T15:58:25.5134197\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u8D44\u6E90\u7AD9",
+      "tags": [
+        "normal"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "8b3ded05-2a9b-40b0-bfe1-e075ba134a49",
+      "key": "\u8C46\u74E3\u8D44\u6E90",
+      "name": "\u8C46\u74E3\u8D44\u6E90",
+      "api": "https://dbzy.tv/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T15:58:04.027895773\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u8D44\u6E90\u7AD9",
+      "tags": [
+        "normal"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "e8951603-6e38-477d-b13c-7647dda66ead",
+      "key": "\u6781\u901F\u8D44\u6E90",
+      "name": "\u6781\u901F\u8D44\u6E90",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T15:57:42.139065758\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u8D44\u6E90\u7AD9",
+      "tags": [
+        "normal"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "91bcf5d6-9d90-4316-b237-05d2373a32fc",
+      "key": "\u5367\u9F99\u8D44\u6E90",
+      "name": "\u5367\u9F99\u8D44\u6E90",
+      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T15:57:23.96966926\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u8D44\u6E90\u7AD9",
+      "tags": [
+        "normal"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "28a35254-46dd-4e95-b423-07c883c45534",
+      "key": "\u8305\u53F0\u8D44\u6E90",
+      "name": "\u8305\u53F0\u8D44\u6E90",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T15:56:59.178671149\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u8D44\u6E90\u7AD9",
+      "tags": [
+        "normal"
+      ],
+      "priority": 0
+    },
+    {
+      "id": "a79169ac-54a9-4ce2-82be-a3baec860663",
+      "key": "360\u8D44\u6E90",
+      "name": "360\u8D44\u6E90",
+      "api": "https://360zy.com/api.php/provide/vod",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T15:56:41.370465174\u002B08:00",
+      "isDefault": 0,
+      "remark": "\u8D44\u6E90\u7AD9",
+      "tags": [
+        "normal"
+      ],
+      "priority": 0
+    }
+  ],
+  "exportTime": "2025-09-29T09:33:20.880Z",
+  "total": 105,
+  "filters": {
+    "search": null,
+    "tags": null,
+    "status": null
+  },
+  "start_count": 0,
+  "clamshell_default_lid_action": 3,
+  "performance_1": 0,
+  "performance_mode": 0,
+  "gpu_mode": 1,
+  "internal_display": "",
+  "screen_max": 240,
+  "max_frequency": 240,
+  "frequency": 240,
+  "overdrive": -65536
+}
