@@ -1,5 +1,3 @@
-Qt4NkLdYi7jVkuLdnPXBlxZCSoFeiG
-
 # Tv-config
 
 ## MoonTV/LunaTV配置推荐仓库：
