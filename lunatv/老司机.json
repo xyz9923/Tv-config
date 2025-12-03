@@ -1,0 +1,122 @@
+[
+  {
+    "name": "🎬-🔞老鸭资源-",
+    "key": "api.apilyzy.com",
+    "api": "https://api.apilyzy.com/api.php/provide/vod/",
+    "detail": "https://api.apilyzy.com",
+    "disabled": false,
+    "is_adult": true
+  },
+  {
+    "name": "🎬-🔞淫水机资源-",
+    "key": "www.xrbsp.com",
+    "api": "https://www.xrbsp.com/api/json.php",
+    "detail": "https://www.xrbsp.com",
+    "disabled": false,
+    "is_adult": true
+  },
+  {
+    "name": "🎬-🔞番号资源-",
+    "key": "fhapi9.com",
+    "api": "http://fhapi9.com/api.php/provide/vod/",
+    "detail": "http://fhapi9.com",
+    "disabled": false,
+    "is_adult": true
+  },
+  {
+    "name": "🎬-🔞155资源-",
+    "key": "155api.com",
+    "api": "https://155api.com/api.php/provide/vod/",
+    "detail": "https://155api.com",
+    "disabled": false,
+    "is_adult": true
+  },
+  {
+    "name": "🎬-🔞155资源-",
+    "key": "155api.com",
+    "api": "https://155api.com/api.php/provide/vod/at/json",
+    "detail": "https://155api.com",
+    "disabled": false,
+    "is_adult": true
+  },
+  {
+    "name": "🎬-🔞鸡坤资源-",
+    "key": "jkunzyapi.com",
+    "api": "https://jkunzyapi.com/api.php/provide/vod/",
+    "detail": "https://jkunzyapi.com",
+    "disabled": false,
+    "is_adult": true
+  },
+  {
+    "name": "🎬-🔞黄AV资源-",
+    "key": "www.pgxdy.com",
+    "api": "https://www.pgxdy.com/api/json.php",
+    "detail": "https://www.pgxdy.com",
+    "disabled": false,
+    "is_adult": true
+  },
+  {
+    "name": "🎬-🔞香奶儿资源-",
+    "key": "www.gdlsp.com",
+    "api": "https://www.gdlsp.com/api/json.php",
+    "detail": "https://www.gdlsp.com",
+    "disabled": false,
+    "is_adult": true
+  },
+  {
+    "name": "🎬-🔞美少女资源-",
+    "key": "www.msnii.com",
+    "api": "https://www.msnii.com/api/json.php",
+    "detail": "https://www.msnii.com",
+    "disabled": false,
+    "is_adult": true
+  },
+  {
+    "name": "🎬-🔞白嫖资源-",
+    "key": "www.kxgav.com",
+    "api": "https://www.kxgav.com/api/json.php",
+    "detail": "https://www.kxgav.com",
+    "disabled": false,
+    "is_adult": true
+  },
+  {
+    "name": "🎬-🔞乐播资源-",
+    "key": "lbapi9.com",
+    "api": "https://lbapi9.com/api.php/provide/vod/",
+    "detail": "https://lbapi9.com",
+    "disabled": false,
+    "is_adult": true
+  },
+  {
+    "name": "🎬-🔞乐播资源-",
+    "key": "lbapi9.com",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/json",
+    "detail": "https://lbapi9.com",
+    "disabled": false,
+    "is_adult": true
+  },
+  {
+    "name": "🎬-🔞滴滴资源-",
+    "key": "api.ddapi.cc",
+    "api": "https://api.ddapi.cc/api.php/provide/vod/",
+    "detail": "https://api.ddapi.cc",
+    "disabled": false,
+    "is_adult": true
+  },
+  {
+    "name": "🎬-🔞滴滴资源-",
+    "key": "api.ddapi.cc",
+    "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
+    "detail": "https://api.ddapi.cc",
+    "disabled": false,
+    "is_adult": true
+  },
+  {
+    "name": "🎬-🔞精品资源-",
+    "key": "www.jingpinx.com",
+    "api": "https://www.jingpinx.com/api.php/provide/vod/",
+    "detail": "https://www.jingpinx.com",
+    "disabled": false,
+    "is_adult": true
+  }
+]
