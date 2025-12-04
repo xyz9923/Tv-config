@@ -1,0 +1,8 @@
+{
+    "name": "🎬-爱奇艺-",
+    "key": "iqiyizyapi.com",
+    "api": "https://iqiyizyapi.com/api.php/provide/vod",
+    "detail": "https://iqiyizyapi.com",
+    "disabled": false,
+    "is_adult": false
+  },
