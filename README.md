@@ -6,7 +6,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/xyz9923/Tv-config?style=flat-square)](https://github.com/xyz9923/Tv-config/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/xyz9923/Tv-config?style=flat-square)](https://github.com/xyz9923/Tv-config/network)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+
 
 </div>
 
@@ -58,6 +58,27 @@ https://raw.githubusercontent.com/xyz9923/Tv-config/main/lunatv/自用.json
 | `媒体去重后.json` | 去重后的媒体配置 | 80+ | 追求精简 |
 | `老司机.json` | 成人内容 | 20+ | 特定需求 |
 | `老司机去重后.json` | 去重后的成人内容 | 15+ | 精简版本 |
+
+---
+
+## 🤖 AI 提示词 (AI Prompt)
+
+**文件路径**: `AI-prompt.txt`
+
+这是一个专门设计的 AI 提示词，用于帮助您将任意来源的 JSON 数据转换为本项目支持的格式。
+
+### ✨ 主要功能
+- **智能格式转换**: 支持转换为 `omnibox` 或 `lunatv/moontv` 格式
+- **自动补全**: 自动生成缺失的 `id` (UUID) 和 `time` (ISO 8601)
+- **智能映射**: 自动识别并映射 `name`, `url` 等关键字段
+- **默认值填充**: 自动处理 `type`, `isActive` 等字段的默认值
+
+### 🚀 使用方法
+1. 复制 `AI-prompt.txt` 的全部内容
+2. 发送给 ChatGPT / Claude / Gemini 等 AI 助手
+3. 按照提示输入您的源 JSON 数据和目标 LUNATV/MOONTV或者omnibox格式
+4. AI 助手会返回转换后的 JSON 数据
+5. 将返回的 JSON 数据复制到您的客户端中
 
 ---
 
@@ -118,11 +139,7 @@ https://raw.githubusercontent.com/xyz9923/Tv-config/main/lunatv/自用.json
 
 ---
 
-## 📜 许可证
 
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
-
----
 
 <div align="center">
 
