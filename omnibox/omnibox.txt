@@ -1,0 +1,15 @@
+{
+      "id": "449caeaf-be47-4b6e-b3f8-f93f73a98cb1",
+      "key": "TV-1080资源",
+      "name": "TV-1080资源",
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "type": 2,
+      "isActive": 1,
+      "time": "2025-09-29T16:28:00.648982653+08:00",
+      "isDefault": 0,
+      "remark": "configplus_isadult",
+      "tags": [
+        "TV"
+      ],
+      "priority": 1
+    } 
