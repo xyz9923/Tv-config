@@ -30,7 +30,7 @@
 
 **适用于**: LunaTV、DECOTV 等项目
 
-包含 涵盖影视、动漫、综艺等类型。其中影视资源 50+ 个（爱奇艺、豆瓣、茅台、卧龙、非凡等），含10+个 NSFW 内容。
+包含 涵盖影视、动漫、综艺等类型。其中影视资源 50+ 个，含10+个 NSFW 内容。
 
 > ✅ **已通过有效性检查**（2025-12-04）
 
@@ -51,13 +51,13 @@ https://raw.githubusercontent.com/xyz9923/Tv-config/main/lunatv/自用.json
 
 ### 📋 其他配置文件
 
-| 文件名 | 说明 | 站点数量 | 适用场景 |
-|--------|------|----------|----------|
-| `config.json` | 完整配置 | 120+ | 需要最全资源 |
-| `媒体.json` | 影视媒体专用 | 90+ | 只看影视剧 |
-| `媒体去重后.json` | 去重后的媒体配置 | 80+ | 追求精简 |
-| `老司机.json` | 成人内容 | 20+ | 特定需求 |
-| `老司机去重后.json` | 去重后的成人内容 | 15+ | 精简版本 |
+| 文件名 | 说明 | 
+|--------|------|
+| `config.json` | 完整配置 |
+| `媒体.json` | 影视媒体专用 | 
+| `媒体去重后.json` | 去重后的媒体配置 | 
+| `老司机.json` | 成人内容 | 
+| `老司机去重后.json` | 去重后的成人内容 |
 
 ---
 
@@ -98,6 +98,8 @@ https://raw.githubusercontent.com/xyz9923/Tv-config/main/lunatv/自用.json
 
 ### 💬 社区讨论
 - **Linux.do 讨论帖 #1**: https://linux.do/t/topic/997817
+ - `source-collector` 仓库
+
 - **Linux.do 讨论帖 #2**: https://linux.do/t/topic/1133648
   - `媒体.json` 和 `老司机.json` 来源
 
@@ -148,3 +150,4 @@ https://raw.githubusercontent.com/xyz9923/Tv-config/main/lunatv/自用.json
 Made with ❤️ by xyz9923
 
 </div>
+
