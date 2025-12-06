@@ -2,7 +2,7 @@
 
 # 📺 Tv-config
 
-**精选影视资源配置仓库 | 支持 MoonTV/LunaTV/DECOTV**
+**精选影视资源配置仓库 | 支持 LunaTV/DECOTV**
 
 [![GitHub stars](https://img.shields.io/github/stars/xyz9923/Tv-config?style=flat-square)](https://github.com/xyz9923/Tv-config/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/xyz9923/Tv-config?style=flat-square)](https://github.com/xyz9923/Tv-config/network)
@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/xyz9923/Tv-config/main/lunatv/自用.json
 这是一个专门设计的 AI 提示词，用于帮助您将任意来源的 JSON 数据转换为本项目支持的格式。
 
 ### ✨ 主要功能
-- **智能格式转换**: 支持转换为 `omnibox` 或 `lunatv/moontv` 格式
+- **智能格式转换**: 支持转换为 `omnibox` 或 `lunatv` 格式
 - **自动补全**: 自动生成缺失的 `id` (UUID) 和 `time` (ISO 8601)
 - **智能映射**: 自动识别并映射 `name`, `url` 等关键字段
 - **默认值填充**: 自动处理 `type`, `isActive` 等字段的默认值
@@ -76,7 +76,7 @@ https://raw.githubusercontent.com/xyz9923/Tv-config/main/lunatv/自用.json
 ### 🚀 使用方法
 1. 复制 `AI-prompt.txt` 的全部内容
 2. 发送给 ChatGPT / Claude / Gemini 等 AI 助手
-3. 按照提示输入您的源 JSON 数据和目标 LUNATV/MOONTV或者omnibox格式
+3. 按照提示输入您的源 JSON 数据和目标 LUNATV或者omnibox格式
 4. AI 助手会返回转换后的 JSON 数据
 5. 将返回的 JSON 数据复制到您的客户端中
 
@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/xyz9923/Tv-config/main/lunatv/自用.json
 
 ### 🔗 推荐仓库
 - **LunaTV-config**: https://github.com/hafrey1/LunaTV-config
-  - MoonTV/LunaTV 官方推荐配置仓库
+  - LunaTV 官方推荐配置仓库
   - 资源丰富，更新及时
 
 - **Source-Collector**: https://github.com/adminlove520/Source-Collector
@@ -150,4 +150,5 @@ https://raw.githubusercontent.com/xyz9923/Tv-config/main/lunatv/自用.json
 Made with ❤️ by xyz9923
 
 </div>
+
 
